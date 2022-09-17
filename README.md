@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiguelAngel-ht
 - 👀 I’m interested in Python, Machine Learning, Data Science, Math, Physics, Quantum Information, Satistics...
-- 🌱 I’m currently learning Quantum Information
+- 🌱 I’m currently learning Quantum Information, Image Processing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
