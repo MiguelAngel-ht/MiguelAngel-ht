@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">A passionate programmer</h3>
+<h1 align="center">Hi 👋, I'm Miguel Ángel </h1>
+<h3 align="center">A passionate programmer </h3>
 
 - 🌱 I’m currently learning **OpenCV and Qiskit**
 
