@@ -3,14 +3,13 @@
 
 
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+of+Physical+Engineering;Honorific+Mention+2021;Math,+Python,+Machine+Learning+and+Data+Science;migueht20@gmail.com);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
+
+
+<br>
 
 
 ## :sassy_man:  About me
@@ -19,7 +18,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :student:  I’m currently learning **OpenCV and Qiskit**
 - :thinking: **Math, Python, Machine Learning and Data Science**
-- :contact: How to reach me **migueht20@gmail.com**
+- 👉 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
 
 <br>
