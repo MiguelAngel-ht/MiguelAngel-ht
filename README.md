@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel </h1>
 <h3 align="center">A passionate programmer </h3>
 
-- 🌱 I’m currently learning **OpenCV and Qiskit**
 
-- 💬 Ask me about **Math, Python, Machine Learning and Data Science**
 
-- 📫 How to reach me **migueht20@gmail.com**
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+	</a>
+</p>
+
+
+## :sassy_man:  About me
+- :school: I am a student of Physical Engineering in University of Guanajuato
+- :trophy: `Ai Lab School Hack` Honorific Mention 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :student:  I’m currently learning **OpenCV and Qiskit**
+- :thinking: **Math, Python, Machine Learning and Data Science**
+- :contact: How to reach me **migueht20@gmail.com**
+- :nerd_face: Always `learning new things`
+
+<br>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
