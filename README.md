@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Student+of+Physical+Engineering;Honorific+Mention+2021;Math,+Python,+Machine+Learning+and+Data+Science;migueht20@gmail.com;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Student+of+Physical+Engineering;Honorific+Mention+2021;Pysics,+Math,+Python...;Machine+Learning+and+Data+Science;migueht20@gmail.com;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
