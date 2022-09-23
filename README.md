@@ -14,7 +14,6 @@
 ## :sassy_man:  About me
 - :school: I am a student of Physical Engineering in University of Guanajuato
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
-- :technologist: I love using Software as a solution for every `Problem`
 - :student:  I’m currently learning **OpenCV and Qiskit**
 - :thinking: **Math, Python, Machine Learning and Data Science**
 - 👉 How to reach me **migueht20@gmail.com**
