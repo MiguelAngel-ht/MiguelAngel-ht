@@ -38,8 +38,6 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelAngel-ht}/count.svg" alt="MiguelAngel-ht :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelangel-ht&show_icons=true&locale=en&layout=compact" alt="miguelangel-ht" /></p>
