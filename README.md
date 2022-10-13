@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">A self-taught programmer</h3>
+<h3 align="center">A self-taught programmer </h3>
 
 
 
