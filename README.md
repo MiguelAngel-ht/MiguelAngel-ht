@@ -44,18 +44,18 @@
 
 
 
-# gitignore template for Jupyter Notebooks
+<!---# gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
-
+--->
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# IPython
+<!-- # IPython -->
 profile_default/
 ipython_config.py
 
-# Remove previous ipynb_checkpoints
-#   git rm -r .ipynb_checkpoints/
+<!-- # Remove previous ipynb_checkpoints -->
+git rm -r .ipynb_checkpoints/
 
 
 
