@@ -40,7 +40,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelAngel-ht}/count.svg" alt="MiguelAngel-ht :: Visitor's Count" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelangel-ht&show_icons=true&locale=en&layout=compact" alt="miguelangel-ht" hide=jupyter%20notebook/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelangel-ht&show_icons=true&locale=en&layout=compact" hide=jupyter%20notebook alt="miguelangel-ht" /></p>
 
 
 
