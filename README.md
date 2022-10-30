@@ -40,22 +40,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelAngel-ht}/count.svg" alt="MiguelAngel-ht :: Visitor's Count" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelangel-ht&show_icons=true&locale=en&layout=compact" alt="miguelangel-ht" /></p>
-
-
-
-<!---# gitignore template for Jupyter Notebooks
-# website: http://jupyter.org/
---->
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-<!-- # IPython -->
-profile_default/
-ipython_config.py
-
-<!-- # Remove previous ipynb_checkpoints -->
-git rm -r .ipynb_checkpoints/
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelangel-ht&show_icons=true&locale=en&layout=compact" alt="miguelangel-ht" hide=jupyter%20notebook/></p>
 
 
 
