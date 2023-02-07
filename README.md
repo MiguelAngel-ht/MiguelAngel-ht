@@ -4,16 +4,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Student+of+Physical+Engineering;Honorific+Mention+2021;Pysics,+Math,+Python...;Machine+Learning+and+Data+Science;migueht20@gmail.com;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Physical+Engineer;Honorific+Mention+2021;Pysics,+Math,+Python...;Machine+Learning+and+Data+Science;migueht20@gmail.com;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a student of Physical Engineering in University of Guanajuato
+- :school: I have a degree in Engineering Physics in University of Guanajuato
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
-- :student:  I’m currently learning **OpenCV and Qiskit**
+- :student:  I’m currently learning **PyTorch and Sql**
 - :thinking: **Math, Python, Machine Learning and Data Science**
 - 👉 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
