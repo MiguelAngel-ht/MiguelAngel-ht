@@ -13,7 +13,7 @@
 ## :sassy_man:  About me
 - :school: I have a degree in Engineering Physics in University of Guanajuato
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
-- :student:  I’m currently learning **PyTorch and Sql**
+- :student:  I’m currently learning **PyTorch, Sql and React**
 - :thinking: **Math, Python, Machine Learning and Data Science**
 - 👉 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
