@@ -18,10 +18,10 @@
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
 - :student:  I’m currently learning **PyTorch, Sql and React**
 - :thinking: **Math, Python, Machine Learning and Data Science**
-- 👉 How to reach me **migueht20@gmail.com**
+- 📧 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
 
-<br>
+<br> 
 
 
 <h3 align="center">Connect with me:</h3>
