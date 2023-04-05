@@ -14,6 +14,8 @@
 <br>
 
 ## :sassy_man:  About me
+
+
 - :school: I have a degree in Engineering Physics in University of Guanajuato
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
 - :student:  I’m currently learning **PyTorch, Sql and React**
