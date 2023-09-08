@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel </h1>
-<h3 align="center">Data Scientist and Machine Learning Enginner</h3>
+<h3 align="center">Data Analyst and Machine Learning Enginner</h3>
 
 
 <h5 align="center">Languages and Tools:</h5>
