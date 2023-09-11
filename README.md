@@ -9,7 +9,6 @@
 
 <h5 align="center">Languages and Tools:</h5>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-https://www.svgrepo.com/show/374093/sql.svg
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/es-MX/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
    <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="SQL" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
