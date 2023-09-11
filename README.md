@@ -56,7 +56,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelAngel-ht}/count.svg" alt="MiguelAngel-ht :: Visitor's Count" /></p>
 
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel-ht&layout=donut&hide=jupyter%20notebook)](https://github.com/MiguelAngel-ht/github-readme-stats)</p>
+<p align="center"><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel-ht&layout=donut&hide=jupyter%20notebook"  /></p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel-ht&layout=donut&hide=jupyter%20notebook)](https://github.com/MiguelAngel-ht/github-readme-stats)
 
 
 <!---
