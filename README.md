@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="Github Banner.png" alt="Card header"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Miguel Ángel </h1>
 <h3 align="center">Data Analyst and Machine Learning Enginner</h3>
 
