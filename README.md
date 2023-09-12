@@ -27,7 +27,6 @@
 
 
 <br>
-
 ## 😼  About me
 
 
@@ -37,9 +36,7 @@
 - :thinking: **Math, Python, Machine Learning and Data Science**
 - 📧 How to reach me **migueht20@gmail.com**
 - :nerd_face: Always `learning new things`
-
-
-<br> 
+<br>
 
 
 <h3 align="center">Connect with me:</h3>
