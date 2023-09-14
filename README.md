@@ -27,7 +27,8 @@
 
 
 <br>
-## 😼  About me
+
+## About me 😼 
 
 
 - :school: I have a degree in Engineering Physics in University of Guanajuato
