@@ -33,10 +33,10 @@
 
 - :school: I have a degree in Engineering Physics in University of Guanajuato
 - :trophy: `Ai Lab School Hack` Honorific Mention 2021
-- :student:  I’m currently learning **PyTorch, Sql and Azure**
-- :thinking: **Math, Python, Machine Learning and Data Science**
+- :student:  I’m currently learning **Tableau and SAS**
+- :thinking: **Bussines Analytics**
 - 📧 How to reach me **migueht20@gmail.com**
-- :nerd_face: Always `learning new things`
+
 <br>
 
 
