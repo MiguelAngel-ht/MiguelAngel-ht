@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi! I'm Miguel Ángel </h1>
+<h1 align="center"> Miguel Ángel </h1>
 <h3 align="center">Data Analyst and Machine Learning Engineer</h3>
 
 
@@ -55,6 +55,10 @@
 
 <p align="center"><img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel-ht&layout=donut&hide=jupyter%20notebook"  /></p>
 
+<p align="center">
+          <a href="https://github.com/MiguelAngel-ht/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel-ht&langs_count=6&theme=gruvbox&layout=donut&hide=jupyter%20notebook&hide_border=true" alt="MiguelAngel-ht :: Top Langs" /></a>
+        </p>
 
 
 <!---
