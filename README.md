@@ -31,10 +31,10 @@
 ## About me 😼 
 
 
-- :school: I have a degree in Engineering Physics in University of Guanajuato
-- :trophy: `Ai Lab School Hack` Honorific Mention 2021
-- :student:  I’m currently learning **Tableau and SAS**
-- :thinking: **Bussines Analytics**
+- 👨‍🎓 I have a degree in Engineering Physics in University of Guanajuato
+- 🏆🥉 `Ai Lab School Hack` Honorific Mention 2021
+- 🧠  I’m currently learning **Tableau and SAS**
+- 👨‍💻 **Bussines Analytics**
 - 📧 How to reach me **migueht20@gmail.com**
 
 <br>
