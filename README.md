@@ -7,6 +7,7 @@
 <h3 align="center">Data Analyst and Machine Learning Engineer</h3>
 
 
+
 <h5 align="center">Languages and Tools:</h5>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/es-MX/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
